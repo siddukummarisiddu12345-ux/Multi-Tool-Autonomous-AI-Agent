@@ -1,0 +1,1 @@
+"""Structura AI: document-to-JSON extraction with LLMs."""
